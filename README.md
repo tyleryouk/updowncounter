@@ -1,4 +1,4 @@
-Part 2: Laboratory (20 pts)   
+Part 2: Laboratory (20 pts)   .
  
 N-bit Up/Down Counter  
  
